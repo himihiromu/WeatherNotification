@@ -8,46 +8,46 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>7D3DF39A-8D13-421D-AA23-18CCCB56CA9F</PackageIdentityName>
+    <PackageIdentityName>5C8C3E81-3334-4745-811B-BED3F6DEBB1F</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\himih\Documents\git用フォルダ\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>0C5855295957E8B9FE79CCDC191AF7F537A1E30C8C01FBBD9176364565196FB1</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>7D3DF39A-8D13-421D-AA23-18CCCB56CA9F_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>7D3DF39A-8D13-421D-AA23-18CCCB56CA9F_9zz4h110yvjzm!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>7D3DF39A-8D13-421D-AA23-18CCCB56CA9F</RegisteredPackageID>
+    <LayoutDir>C:\Users\himih\Documents\gityo\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <RegisteredManifestChecksum>2E95E720626325A99EC8BD666E5DBCDB737E4F72F9AB0CB7EB7BA1FA04D7BB7D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5C8C3E81-3334-4745-811B-BED3F6DEBB1F_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5C8C3E81-3334-4745-811B-BED3F6DEBB1F_9zz4h110yvjzm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5C8C3E81-3334-4745-811B-BED3F6DEBB1F</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=User Name</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\himih\Documents\gityo\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-03T16:54:59.295</Modified>
+      <Modified>2022-09-03T17:37:06.957</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-03T16:54:58.907</Modified>
+      <Modified>2022-09-03T17:37:06.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.runtimeconfig.json">
       <PackagePath>WeatherNotification.runtimeconfig.json</PackagePath>
-      <Modified>2022-09-03T16:54:58.703</Modified>
+      <Modified>2022-09-03T17:37:06.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.dll">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.dll">
       <PackagePath>WeatherNotification.dll</PackagePath>
-      <Modified>2022-09-03T16:54:57.448</Modified>
+      <Modified>2022-09-03T17:37:05.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>WeatherNotification.exe</PackagePath>
-      <Modified>2022-09-03T16:54:57.469</Modified>
+      <Modified>2022-09-03T17:37:05.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\himih\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1061,9 +1061,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.deps.json">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\WeatherNotification.deps.json">
       <PackagePath>WeatherNotification.deps.json</PackagePath>
-      <Modified>2022-09-03T16:54:59.143</Modified>
+      <Modified>2022-09-03T17:37:06.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1077,181 +1077,181 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-07-24T17:14:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2022-09-03T16:47:31.187</Modified>
+      <Modified>2022-09-03T17:00:21.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:56.805</Modified>
+      <Modified>2022-09-03T17:37:04.706</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:56.819</Modified>
+      <Modified>2022-09-03T17:37:04.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:56.840</Modified>
+      <Modified>2022-09-03T17:37:04.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:56.869</Modified>
+      <Modified>2022-09-03T17:37:04.767</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:56.982</Modified>
+      <Modified>2022-09-03T17:37:04.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2022-09-03T16:47:31.184</Modified>
+      <Modified>2022-09-03T17:00:21.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2022-09-03T16:47:31.185</Modified>
+      <Modified>2022-09-03T17:00:21.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-09-03T16:54:57.027</Modified>
+      <Modified>2022-09-03T17:37:04.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.200</Modified>
+      <Modified>2022-09-03T17:37:05.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.210</Modified>
+      <Modified>2022-09-03T17:37:05.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.220</Modified>
+      <Modified>2022-09-03T17:37:05.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.236</Modified>
+      <Modified>2022-09-03T17:37:05.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.297</Modified>
+      <Modified>2022-09-03T17:37:05.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.034</Modified>
+      <Modified>2022-09-03T17:37:04.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.037</Modified>
+      <Modified>2022-09-03T17:37:04.925</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.039</Modified>
+      <Modified>2022-09-03T17:37:04.928</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.042</Modified>
+      <Modified>2022-09-03T17:37:04.931</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.046</Modified>
+      <Modified>2022-09-03T17:37:04.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.085</Modified>
+      <Modified>2022-09-03T17:37:04.972</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.089</Modified>
+      <Modified>2022-09-03T17:37:04.977</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.095</Modified>
+      <Modified>2022-09-03T17:37:04.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.103</Modified>
+      <Modified>2022-09-03T17:37:04.989</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.119</Modified>
+      <Modified>2022-09-03T17:37:05.004</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.064</Modified>
+      <Modified>2022-09-03T17:37:04.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.067</Modified>
+      <Modified>2022-09-03T17:37:04.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.071</Modified>
+      <Modified>2022-09-03T17:37:04.958</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.074</Modified>
+      <Modified>2022-09-03T17:37:04.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.081</Modified>
+      <Modified>2022-09-03T17:37:04.969</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.049</Modified>
+      <Modified>2022-09-03T17:37:04.937</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.051</Modified>
+      <Modified>2022-09-03T17:37:04.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.054</Modified>
+      <Modified>2022-09-03T17:37:04.942</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.057</Modified>
+      <Modified>2022-09-03T17:37:04.946</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.061</Modified>
+      <Modified>2022-09-03T17:37:04.950</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.131</Modified>
+      <Modified>2022-09-03T17:37:05.008</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.139</Modified>
+      <Modified>2022-09-03T17:37:05.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.148</Modified>
+      <Modified>2022-09-03T17:37:05.020</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.160</Modified>
+      <Modified>2022-09-03T17:37:05.031</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.192</Modified>
+      <Modified>2022-09-03T17:37:05.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.054</Modified>
+      <Modified>2022-09-03T17:37:04.949</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.062</Modified>
+      <Modified>2022-09-03T17:37:04.958</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.073</Modified>
+      <Modified>2022-09-03T17:37:04.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.089</Modified>
+      <Modified>2022-09-03T17:37:04.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\himih\Documents\git用フォルダ\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\himih\Documents\gityo\WeatherNotification\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-09-03T16:54:57.133</Modified>
+      <Modified>2022-09-03T17:37:05.024</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

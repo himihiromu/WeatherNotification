@@ -4,5 +4,23 @@
         <name>WeatherNotification</name>
     </assembly>
     <members>
+        <member name="P:WeatherNotification.ViewModel.MainViewModel.Items">
+            <inheritdoc cref="F:WeatherNotification.ViewModel.MainViewModel.items"/>
+        </member>
+        <member name="P:WeatherNotification.ViewModel.MainViewModel.Text">
+            <inheritdoc cref="F:WeatherNotification.ViewModel.MainViewModel.text"/>
+        </member>
+        <member name="F:WeatherNotification.ViewModel.MainViewModel.addCommand">
+            <summary>The backing field for <see cref="P:WeatherNotification.ViewModel.MainViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:WeatherNotification.ViewModel.MainViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:WeatherNotification.ViewModel.MainViewModel.Add"/>.</summary>
+        </member>
+        <member name="F:WeatherNotification.ViewModel.MainViewModel.deleteCommand">
+            <summary>The backing field for <see cref="P:WeatherNotification.ViewModel.MainViewModel.DeleteCommand"/>.</summary>
+        </member>
+        <member name="P:WeatherNotification.ViewModel.MainViewModel.DeleteCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:WeatherNotification.ViewModel.MainViewModel.Delete(System.String)"/>.</summary>
+        </member>
     </members>
 </doc>

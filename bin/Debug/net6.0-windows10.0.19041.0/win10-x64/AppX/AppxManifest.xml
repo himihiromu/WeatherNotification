@@ -7,7 +7,7 @@
 
     パッケージ マニフェスト ファイルの詳細については、http://go.microsoft.com/fwlink/?LinkID=241727 を参照してください
   -->
-  <Identity Name="7D3DF39A-8D13-421D-AA23-18CCCB56CA9F" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
+  <Identity Name="5C8C3E81-3334-4745-811B-BED3F6DEBB1F" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x64" />
   <Properties>
     <DisplayName>WeatherNotification</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>

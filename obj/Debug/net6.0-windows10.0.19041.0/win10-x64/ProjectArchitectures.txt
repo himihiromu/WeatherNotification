@@ -1,1 +1,1 @@
-C:\Users\himih\Documents\git用フォルダ\WeatherNotification\WeatherNotification.csproj;x64
+C:\Users\himih\Documents\gityo\WeatherNotification\WeatherNotification.csproj;x64
